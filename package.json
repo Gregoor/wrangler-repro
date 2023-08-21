@@ -1,0 +1,14 @@
+{
+  "name": "wrangler-repro",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "wrangler pages dev --compatibility-date=2023-08-14 ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "wrangler": "^3.5.1"
+  }
+}
